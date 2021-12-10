@@ -1,0 +1,7 @@
+.googleLogin {
+  justify-content: center;
+  display: flex;
+  width: 300px;
+  cursor: pointer;
+  color: red;
+}
